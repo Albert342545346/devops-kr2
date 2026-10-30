@@ -1,3 +1,4 @@
+# KR2: Alimov
 import os
 import socket
 
